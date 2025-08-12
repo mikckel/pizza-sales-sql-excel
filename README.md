@@ -67,7 +67,10 @@ How to Reproduce
 	3.	Run the SQL scripts in /sql to generate KPIs.
 	4.	Open the Excel file in /excel and refresh the connection.
 	5.	Explore the dashboard using slicers and filters.
+<img width="719" height="405" alt="image" src="https://github.com/user-attachments/assets/cfd421d3-c4b0-41f4-8a75-cd8fd7b91164" />
+
 
 Author
 
 Michael Mulugeta Demissie
+
